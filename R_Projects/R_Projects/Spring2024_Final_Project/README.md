@@ -1,1 +1,3 @@
 
+
+The final project for this class focuses on analyzing a dataset of my choice to showcase my proficiency in data analysis and machine learning techniques. I will identify a dataset related to human behavior, conduct exploratory data analysis with visualizations, and build at least three distinct machine learning models, tuning parameters as necessary to optimize their performance. The project will involve evaluating the predictive accuracy of these models and interpreting their insights within the relevant domain. The chosen dataset will have at least 500 observations and 10 predictor variables, ensuring it is novel and manageable for comprehensive analysis in R.
