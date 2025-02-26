@@ -10,8 +10,7 @@ There are three major aims for this project:
 3) Explore the win or loss outcome two players playing the same game.
 
 I explored a dataset containing behavior of gamblers using the online platform called Bustabit. This data was collected
-from 10/31/2016 to 12/10/2016 and was found [here on Kaggle](https://www.kaggle.com/datasets/kingabzpro/gamblingbehavior-
-bustabit/data).
+from 10/31/2016 to 12/10/2016 and was found [here on Kaggle](https://www.kaggle.com/datasets/kingabzpro/gamblingbehavior-bustabit/data).
 
 The rules of the game are that you bet money in Bits and you must cash out before the game “busts.” Wins
 are calculated using the amount of the bet multiplied by the amount cashed out. For example, you bet 10
