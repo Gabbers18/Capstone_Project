@@ -11,7 +11,7 @@ More specifically, looking into these three more specific questions:
 over time?
 3) How does meditation affect average daily mood over time?
 
-The dataset I used can be found [here](https://doi.org/10.5334/jopd.51).
+The dataset I used can be found [here](https://osf.io/w9v28/files/osfstorage).
 
 This data was collected independently by a 33-year old male doctoral student. Each row represents one day of data collection over the course of 900 days.
 
