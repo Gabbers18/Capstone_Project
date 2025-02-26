@@ -11,9 +11,3 @@ There are three major aims for this project:
 
 I explored a dataset containing behavior of gamblers using the online platform called Bustabit. This data was collected
 from 10/31/2016 to 12/10/2016 and was found [here on Kaggle](https://www.kaggle.com/datasets/kingabzpro/gamblingbehavior-bustabit/data).
-
-The rules of the game are that you bet money in Bits and you must cash out before the game “busts.” Wins
-are calculated using the amount of the bet multiplied by the amount cashed out. For example, you bet 10
-and you cash out at 3.5, so your win would be 35 minus what you put in, so 25. Bonuses are also added and
-must be multiplied by the bet. On Bustabit, the house also has a slight advantage, where for every 1 out of
-100 games, all players bust.
