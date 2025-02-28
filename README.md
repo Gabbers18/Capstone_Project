@@ -4,5 +4,5 @@ This repository stores a collection of my favorite projects and coursework I hav
 The projects focus on data analysis, machine learning, and behavioral science, utilizing various Python libraries and frameworks.
 
 # Contents
-- Final Project:
+- Final Project: examining Young People's Spending habits using a series of machine learning models (boosted tree, random forest, and linear regression models)
 - 
