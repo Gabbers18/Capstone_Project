@@ -12,4 +12,4 @@ Research Questions:
 1) How can we predict spending habits from a person's demographics and preferences?
 2) What comparisions can we make between individual's preferences? How might these preferences be used to predict spending habits?
 
-Within this folder, you can find the dataset used, a brief project description, and the completed final project.
+Within this folder, you can find the dataset used, a brief project description/analysis outline, and the completed final project.
