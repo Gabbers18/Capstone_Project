@@ -5,4 +5,4 @@ The projects focus on data analysis, machine learning, and behavioral science, u
 
 # Contents
 - Final Project: examining Young People's Spending habits using a series of machine learning models (boosted tree, random forest, and linear regression models)
-- 
+- Coursework: includes a series of assignments including Examining Crime Rates, 
