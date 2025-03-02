@@ -11,4 +11,5 @@ Examining Young People's Spending habits using a series of machine learning mode
 - random forest
 - linear regression models
 
-## Coursework: includes a series of assignments including Examining Crime Rates, Article Topic Modeling, and Web Scraping Craigslist Postings
+### Coursework: 
+Includes a series of assignments I completed in Examining Crime Rates, Article Topic Modeling, and Web Scraping Craigslist Postings
