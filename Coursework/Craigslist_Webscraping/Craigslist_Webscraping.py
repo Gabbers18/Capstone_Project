@@ -57,18 +57,15 @@ keywords = ['mattress', 'cabinet', 'wrench']
 
 """2. Create an empty list to store results.
 
-This will be used later when storing results. Chat GPT
+This will be used later when storing results.
 """
 
 results = []
 
 """3. I wanted to use a function that would search each of these links for our set keywords.
 
-Chat GPT helped me write this. I referred to the documentation, but I was having troubling figuring out how to search for specific keywords within multiple links. I spent a lot of time going through the documentation to find specific texts, but most of the time it was pulling from "title" or other areas of the websites I was not using, so I turned to Chat GPT. This code took like 15 minutes to run because there were around 300 links.
 """
 
-# Chat GPT helped me display the process of searching within links and making
-# sure the code was working for each link by printing out this explicit text.
 # I was able to see errors for some links and if and where specific keywords
 # were being pulled from
 def search_hrefs_for_keywords(href, keywords):
@@ -78,7 +75,7 @@ def search_hrefs_for_keywords(href, keywords):
 
         page_content = response.text.lower()  # make lowercase
 
-        # Chat GPT printed out this to see if code worked for each page
+        # Process to check if code worked for each page
         print(f"Checking {href} for keywords...")
 
         # search keywords
@@ -96,7 +93,7 @@ def search_hrefs_for_keywords(href, keywords):
 # with modifications to search for keywords
 for link in links:
     href = link.get("href")
-    # Used ChatGPT to filter out links that did not work
+    # Filter out links that did not work
     if href and 'cgi-bin' not in href:
         if href.startswith('/'):
             href = f"https://phoenix.craigslist.org{href}"
@@ -104,7 +101,7 @@ for link in links:
         search_hrefs_for_keywords(href, keywords)
         time.sleep(2)  # added sleep between each url for 2 seconds here
 
-"""Write CSV file with keywords and links where they were each found. Chat GPT also helpped me with this. I tried to use the beautiful soup documentation in the write CSV file section, but it was not working well with the code above that I used. The "decompose" function was having issues."""
+"""Write CSV file with keywords and links where they were each found. I tried to use the beautiful soup documentation in the write CSV file section, but it was not working well with the code above that I used. The "decompose" function was having issues."""
 
 csv_file = "keywords_found.csv"
 with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
