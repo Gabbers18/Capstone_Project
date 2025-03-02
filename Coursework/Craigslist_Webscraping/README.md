@@ -1,4 +1,4 @@
-##Web Scraping: Monitoring Craigslist Listings
+## Web Scraping: Monitoring Craigslist Listings
 
 This project involves building a web scraping tool to monitor Craigslist garage sales in Phoenix for suspicious activity. The script will search for specific keywords in listings, extracting and storing relevant URLs for further investigation.
 
