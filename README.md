@@ -13,6 +13,6 @@ Examining Young People's Spending habits using a series of machine learning mode
 
 ### Coursework: 
 Includes a series of assignments I completed in my graduate level course. They are as follows: 
-- Examining Crime Rates: illustrating data visualization
+- Examining Crime Rates; illustrates data visualization
 - Article Topic Modeling
 - Web Scraping Craigslist Postings
