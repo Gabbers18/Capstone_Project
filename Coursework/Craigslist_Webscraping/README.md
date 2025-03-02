@@ -6,5 +6,5 @@ Objectives
 - Scrape Craigslist’s "Garage & Moving Sales" section for listings.
 - Extract links from ad listings using BeautifulSoup.
 - Search for suspicious keywords (e.g., "mattress," "cabinet," "wrench").
-- Store results in a CSV file containing the keyword and listing URL.
+- Store results in a CSV file containing the keyword and listing URL (This can be found within the folder; titled: Results_keywords_found.csv).
 - Implement delays between requests to avoid detection.
