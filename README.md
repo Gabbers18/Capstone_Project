@@ -1,7 +1,7 @@
 # Python Projects
 
 This repository stores a collection of my favorite projects and coursework I have completed as a graduate student. 
-The projects focus on data analysis, machine learning, and behavioral science, utilizing various Python libraries and frameworks.
+The projects focus on data analysis, topic modeling, and webscraping utilizing various Python libraries and frameworks.
 
 ## Contents
 
@@ -12,4 +12,7 @@ Examining Young People's Spending habits using a series of machine learning mode
 - linear regression models
 
 ### Coursework: 
-Includes a series of assignments I completed in Examining Crime Rates, Article Topic Modeling, and Web Scraping Craigslist Postings
+Includes a series of assignments I completed in my graduate level course. They are as follows: 
+- Examining Crime Rates: illustrating data visualization
+- Article Topic Modeling
+- Web Scraping Craigslist Postings
