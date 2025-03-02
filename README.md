@@ -1,6 +1,6 @@
 # Python Projects
 
-This repository stores a collection of my favorite projects and coursework I have completed as a graduate student. 
+This repository stores a collection of my favorite projects and coursework I have completed as a graduate student. Each folder contains the python notebook (originally made in Google Colab, python script, README describing each project/assignment and generated results files (if applicable).
 The projects focus on data analysis, topic modeling, and webscraping utilizing various Python libraries and frameworks.
 
 ## Contents
