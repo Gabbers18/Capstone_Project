@@ -6,7 +6,7 @@ The projects focus on data analysis, topic modeling, and webscraping utilizing v
 ## Contents
 
 ### Final Project 
-Examining Young People's Spending habits using a series of machine learning models 
+Examining Young People's Spending habits using a series of machine learning models: 
 - boosted tree
 - random forest
 - linear regression models
