@@ -5,13 +5,13 @@ The projects focus on data analysis, topic modeling, and webscraping utilizing v
 
 ## Contents
 
-### Final Project: 
+### Final Project 
 Examining Young People's Spending habits using a series of machine learning models 
 - boosted tree
 - random forest
 - linear regression models
 
-### Coursework: 
+### Coursework 
 Includes a series of assignments I completed in my graduate level course. They are as follows: 
 - Examining Crime Rates; illustrates data visualization
 - Article Topic Modeling
